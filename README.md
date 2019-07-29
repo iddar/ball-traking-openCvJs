@@ -19,6 +19,10 @@ npm i
 npm run serve
 ```
 
+## screenshots
+
+![screenshot](https://raw.githubusercontent.com/iddar/ball-traking-openCvJs/master/screenshots/home.png)
+
 Get OpenCV.js from `https://docs.opencv.org/4.1.1/opencv.js`
 
 based on the work of [https://scotch.io/tutorials/introduction-to-computer-vision-in-javascript-using-opencvjs]()
