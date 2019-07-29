@@ -1,0 +1,23 @@
+{
+  "name": "ball-traking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "opencv-3.js",
+  "scripts": {
+    "serve": "live-server --ignore='**/node_modules/**'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iddar/ball-traking-openCvJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iddar/ball-traking-openCvJs/issues"
+  },
+  "homepage": "https://github.com/iddar/ball-traking-openCvJs#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
