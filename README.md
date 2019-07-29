@@ -6,9 +6,9 @@ Live demo: [https://iddar.github.io/ball-traking-openCvJs/index.html]()
 
 List changes:
 
-- [*] take picture fron camera
-- [*] update openCV.js fron v3.3.1 to v4.1.1
-- [] Live Traking
+- [x] take picture fron camera
+- [X] update openCV.js fron v3.3.1 to v4.1.1
+- [ ] Live Traking
 
 ## Run project
 
